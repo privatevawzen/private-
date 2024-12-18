@@ -1,0 +1,229 @@
+UserID: 6258422592 | Time: 2024-11-02 05:44:04.867877 | Command: /bgmi | Target: 20.235.143.137 | Port: 14265 | Time: 300
+Username: @Devil_vip_army
+Target: 20.235.143.137
+Port: 14265
+Time: 300
+
+UserID: 6258422592 | Time: 2024-11-02 15:35:23.376547 | Command: /bgmi | Target: 20.235.143.137 | Port: 14265 | Time: 300
+Username: @Devil_vip_army
+Target: 20.235.143.137
+Port: 14265
+Time: 300
+
+UserID: 6258422592 | Time: 2024-11-02 15:38:35.750593 | Command: /bgmi | Target: 20.235.143.137 | Port: 14265 | Time: 300
+Username: @Devil_vip_army
+Target: 20.235.143.137
+Port: 14265
+Time: 300
+
+UserID: 6258422592 | Time: 2024-11-02 15:40:42.824724 | Command: /bgmi | Target: 20.198.74.232 | Port: 22442 | Time: 600
+Username: @Devil_vip_army
+Target: 20.198.74.232
+Port: 22442
+Time: 600
+
+UserID: 1916138558 | Time: 2024-11-03 07:27:53.709039 | Command: /bgmi | Target: 20.204.179.53 | Port: 16937 | Time: 300
+Username: UserID: 1916138558
+Target: 20.204.179.53
+Port: 16937
+Time: 300
+
+UserID: 1916138558 | Time: 2024-11-03 07:38:37.562490 | Command: /bgmi | Target: 20.198.78.43 | Port: 29508 | Time: 300
+Username: UserID: 1916138558
+Target: 20.198.78.43
+Port: 29508
+Time: 300
+
+UserID: 1916138558 | Time: 2024-11-03 08:27:56.168082 | Command: /bgmi | Target: 20.235.89.104 | Port: 25584 | Time: 300
+Username: UserID: 1916138558
+Target: 20.235.89.104
+Port: 25584
+Time: 300
+
+UserID: 6258422592 | Time: 2024-11-03 09:21:43.882636 | Command: /bgmi | Target: 20.204.190.98 | Port: 10265 | Time: 120
+Username: @Devil_vip_army
+Target: 20.204.190.98
+Port: 10265
+Time: 120
+
+UserID: 1916138558 | Time: 2024-11-03 11:28:37.411035 | Command: /bgmi | Target: 20.219.161.193 | Port: 14262 | Time: 600
+Username: UserID: 1916138558
+Target: 20.219.161.193
+Port: 14262
+Time: 600
+
+UserID: 1916138558 | Time: 2024-11-03 12:10:52.458342 | Command: /bgmi | Target: 20.235.91.106 | Port: 28183 | Time: 400
+Username: UserID: 1916138558
+Target: 20.235.91.106
+Port: 28183
+Time: 400
+
+UserID: 6258422592 | Time: 2024-11-03 16:05:37.798788 | Command: /bgmi | Target: 4.213.64.211 | Port: 20944 | Time: 100
+Username: @Devil_vip_army
+Target: 4.213.64.211
+Port: 20944
+Time: 100
+
+UserID: 1916138558 | Time: 2024-11-03 17:01:51.878793 | Command: /bgmi | Target: 4.213.64.123 | Port: 29436 | Time: 500
+Username: UserID: 1916138558
+Target: 4.213.64.123
+Port: 29436
+Time: 500
+
+UserID: 1916138558 | Time: 2024-11-04 07:17:54.598794 | Command: /bgmi | Target: 20.198.106.109 | Port: 14044 | Time: 600
+Username: UserID: 1916138558
+Target: 20.198.106.109
+Port: 14044
+Time: 600
+
+UserID: 1916138558 | Time: 2024-11-04 07:48:05.128396 | Command: /bgmi | Target: 20.219.21.140 | Port: 15756 | Time: 200
+Username: UserID: 1916138558
+Target: 20.219.21.140
+Port: 15756
+Time: 200
+
+UserID: 1916138558 | Time: 2024-11-04 08:17:56.601856 | Command: /bgmi | Target: 20.235.149.213 | Port: 21174 | Time: 500
+Username: UserID: 1916138558
+Target: 20.235.149.213
+Port: 21174
+Time: 500
+
+UserID: 1916138558 | Time: 2024-11-04 08:48:07.732342 | Command: /bgmi | Target: 20.235.149.213 | Port: 21174 | Time: 300
+Username: UserID: 1916138558
+Target: 20.235.149.213
+Port: 21174
+Time: 300
+
+UserID: 1916138558 | Time: 2024-11-04 11:10:12.268994 | Command: /bgmi | Target: 4.213.64.222 | Port: 26414 | Time: 300
+Username: UserID: 1916138558
+Target: 4.213.64.222
+Port: 26414
+Time: 300
+
+UserID: 1916138558 | Time: 2024-11-04 14:12:14.852485 | Command: /bgmi | Target: 4.213.65.16 | Port: 10335 | Time: 500
+Username: UserID: 1916138558
+Target: 4.213.65.16
+Port: 10335
+Time: 500
+
+UserID: 1916138558 | Time: 2024-11-04 14:44:03.186614 | Command: /bgmi | Target: 20.198.102.117 | Port: 17168 | Time: 400
+Username: UserID: 1916138558
+Target: 20.198.102.117
+Port: 17168
+Time: 400
+
+UserID: 6258422592 | Time: 2024-11-04 15:04:55.339728 | Command: /bgmi | Target: 20.204.39.144 | Port: 29350 | Time: 400
+Username: @Devil_vip_army
+Target: 20.204.39.144
+Port: 29350
+Time: 400
+
+UserID: 1777630232 | Time: 2024-11-04 15:39:37.321262 | Command: /bgmi | Target: 20.235.14.13 | Port: 20057 | Time: 300
+Username: @Techchampionss
+Target: 20.235.14.13
+Port: 20057
+Time: 300
+
+UserID: 1916138558 | Time: 2024-11-05 02:51:49.132007 | Command: /bgmi | Target: 4.213.64.207 | Port: 12994 | Time: 500
+Username: UserID: 1916138558
+Target: 4.213.64.207
+Port: 12994
+Time: 500
+
+UserID: 6258422592 | Time: 2024-11-05 04:49:45.203376 | Command: /bgmi | Target: 52.140.45.128 | Port: 17489 | Time: 200
+Username: @Devil_vip_army
+Target: 52.140.45.128
+Port: 17489
+Time: 200
+
+UserID: 6258422592 | Time: 2024-11-05 15:42:51.374813 | Command: /bgmi | Target: 20.235.93.102 | Port: 14813 | Time: 200
+Username: @Devil_vip_army
+Target: 20.235.93.102
+Port: 14813
+Time: 200
+
+UserID: 6258422592 | Time: 2024-11-05 15:58:01.602878 | Command: /bgmi | Target: 20.235.145.242 | Port: 25519 | Time: 200
+Username: @Devil_vip_army
+Target: 20.235.145.242
+Port: 25519
+Time: 200
+
+UserID: 6258422592 | Time: 2024-11-06 05:41:10.510847 | Command: /bgmi | Target: 20.235.95.78 | Port: 12415 | Time: 200
+Username: @Devil_vip_army
+Target: 20.235.95.78
+Port: 12415
+Time: 200
+
+UserID: 1916138558 | Time: 2024-11-06 17:31:41.645557 | Command: /bgmi | Target: 20.198.111.211 | Port: 28474 | Time: 600
+Username: UserID: 1916138558
+Target: 20.198.111.211
+Port: 28474
+Time: 600
+
+UserID: 1916138558 | Time: 2024-11-07 04:03:03.410804 | Command: /bgmi | Target: 20.198.72.155 | Port: 16086 | Time: 600
+Username: UserID: 1916138558
+Target: 20.198.72.155
+Port: 16086
+Time: 600
+
+UserID: 1916138558 | Time: 2024-11-07 04:27:55.117940 | Command: /bgmi | Target: 20.235.137.244 | Port: 14010 | Time: 500
+Username: UserID: 1916138558
+Target: 20.235.137.244
+Port: 14010
+Time: 500
+
+UserID: 1916138558 | Time: 2024-11-07 04:39:45.330655 | Command: /bgmi | Target: 20.204.76.235 | Port: 10147 | Time: 500
+Username: UserID: 1916138558
+Target: 20.204.76.235
+Port: 10147
+Time: 500
+
+UserID: 1916138558 | Time: 2024-11-07 04:52:07.313751 | Command: /bgmi | Target: 4.247.22.25 | Port: 18125 | Time: 600
+Username: UserID: 1916138558
+Target: 4.247.22.25
+Port: 18125
+Time: 600
+
+UserID: 6258422592 | Time: 2024-11-07 18:01:07.008325 | Command: /bgmi | Target: 20.235.146.69 | Port: 20216 | Time: 200
+Username: @Devil_vip_army
+Target: 20.235.146.69
+Port: 20216
+Time: 200
+
+UserID: 6258422592 | Time: 2024-11-07 18:16:09.096032 | Command: /bgmi | Target: 20.204.191.16 | Port: 10481 | Time: 200
+Username: @Devil_vip_army
+Target: 20.204.191.16
+Port: 10481
+Time: 200
+
+UserID: 6258422592 | Time: 2024-11-21 03:36:52.817816 | Command: /bgmi | Target: 20.235.137.244 | Port: 14477 | Time: 200
+Username: @Devil_vip_army
+Target: 20.235.137.244
+Port: 14477
+Time: 200
+
+UserID: 6258422592 | Time: 2024-12-02 14:19:52.250646 | Command: /bgmi | Target: 20.204.191.52 | Port: 10427 | Time: 200
+Username: @Devil_vip_army
+Target: 20.204.191.52
+Port: 10427
+Time: 200
+
+UserID: 6258422592 | Time: 2024-12-02 14:36:12.731633 | Command: /bgmi | Target: 20.198.106.143 | Port: 11101 | Time: 200
+Username: @Devil_vip_army
+Target: 20.198.106.143
+Port: 11101
+Time: 200
+
+UserID: 6258422592 | Time: 2024-12-02 14:43:37.325988 | Command: /bgmi | Target: 20.198.106.143 | Port: 11101 | Time: 200
+Username: @Devil_vip_army
+Target: 20.198.106.143
+Port: 11101
+Time: 200
+
+UserID: 6258422592 | Time: 2024-12-02 14:46:11.350856 | Command: /bgmi | Target: 20.235.90.12 | Port: 14466 | Time: 200
+UserID: 6258422592 | Time: 2024-12-02 14:46:49.880975 | Command: /bgmi | Target: 20.235.90.12 | Port: 14466 | Time: 200
+Username: @Devil_vip_army
+Target: 20.235.90.12
+Port: 14466
+Time: 200
+
